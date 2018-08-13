@@ -1,0 +1,439 @@
+"characters": [{
+    "id": "01",
+    "name": "Mario",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "02",
+    "name": "Donkey Kong",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "03",
+    "name": "Link",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "04",
+    "name": "Samus",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "04e",
+    "name": "Dark Samus",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "05",
+    "name": "Yoshi",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "06",
+    "name": "Kirby",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "07",
+    "name": "Fox",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "08",
+    "name": "Pikachu",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "09",
+    "name": "Luigi",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "10",
+    "name": "Ness",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "11",
+    "name": "Captain Falcon",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "12",
+    "name": "Jigglypuff",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "13",
+    "name": "Peach",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "13e",
+    "name": "Daisy",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "14",
+    "name": "Bowser",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "15",
+    "name": "Ice Climbers",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "16",
+    "name": "Sheik",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "17",
+    "name": "Zelda",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "18",
+    "name": "Dr. Mario",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "19",
+    "name": "Pichu",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "20",
+    "name": "Falco",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "21",
+    "name": "Marth",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "21e",
+    "name": "Lucina",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "22",
+    "name": "Young Link",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "23",
+    "name": "Ganondorf",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "24",
+    "name": "Mewtwo",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "25",
+    "name": "Roy",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "25e",
+    "name": "Chrom",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "26",
+    "name": "Mr. Game & Watch",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "27",
+    "name": "Meta Knight",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "28",
+    "name": "Pit",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "28e",
+    "name": "Dark Pit",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "29",
+    "name": "Zero Suit Samus",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "30",
+    "name": "Wario",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "31",
+    "name": "Snake",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "32",
+    "name": "Ike",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "33",
+    "name": "Pokémon Trainer (Squirtle)",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "34",
+    "name": "Pokémon Trainer (Ivysaur)",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "35",
+    "name": "Pokémon Trainer (Charizard)",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "36",
+    "name": "Diddy Kong",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "37",
+    "name": "Lucas",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "38",
+    "name": "Sonic",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "39",
+    "name": "King Dedede",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "40",
+    "name": "Olimar",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "41",
+    "name": "Lucario",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "42",
+    "name": "R.O.B.",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "43",
+    "name": "Toon Link",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "44",
+    "name": "Wolf",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "45",
+    "name": "Villager",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "46",
+    "name": "Mega Man",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "47",
+    "name": "Wii Fit Trainer",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "48",
+    "name": "Rosalina & Luma",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "49",
+    "name": "Little Mac",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "50",
+    "name": "Greninja",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "51",
+    "name": "Mii Fighter (Brawler)",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "52",
+    "name": "Mii Fighter (Swordfighter)",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "53",
+    "name": "Mii Fighter (Gunner)",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "54",
+    "name": "Palutena",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "55",
+    "name": "Pac-Man",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "56",
+    "name": "Robin",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "57",
+    "name": "Shulk",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "58",
+    "name": "Bowser Jr.",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "59",
+    "name": "Duck Hunt",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "60",
+    "name": "Ryu",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "61",
+    "name": "Cloud",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "62",
+    "name": "Corrin",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "63",
+    "name": "Bayonetta",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "64",
+    "name": "Inkling",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "65",
+    "name": "Ridley",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "66",
+    "name": "Simon",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "66e",
+    "name": "Richter",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}, {
+    "id": "65",
+    "name": "King K. Rool",
+    "series": "",
+    "abilities": [],
+    "skins": []
+}]
